@@ -1,0 +1,12 @@
+C:\Users\josep\source\repos\MainMenu\MainMenu\bin\Debug\MainMenu.exe.config
+C:\Users\josep\source\repos\MainMenu\MainMenu\bin\Debug\MainMenu.exe
+C:\Users\josep\source\repos\MainMenu\MainMenu\bin\Debug\MainMenu.pdb
+C:\Users\josep\source\repos\MainMenu\MainMenu\obj\Debug\MainMenu.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\MainMenu\MainMenu\obj\Debug\MainMenu.MainMenu.resources
+C:\Users\josep\source\repos\MainMenu\MainMenu\obj\Debug\MainMenu.Properties.Resources.resources
+C:\Users\josep\source\repos\MainMenu\MainMenu\obj\Debug\MainMenu.csproj.GenerateResource.cache
+C:\Users\josep\source\repos\MainMenu\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\MainMenu\MainMenu\obj\Debug\MainMenu.exe
+C:\Users\josep\source\repos\MainMenu\MainMenu\obj\Debug\MainMenu.pdb
+C:\Users\josep\source\repos\MainMenu\MainMenu\obj\Debug\MainMenu.AddQuote.resources
+C:\Users\josep\source\repos\MainMenu\MainMenu\obj\Debug\MainMenu.Order.resources
